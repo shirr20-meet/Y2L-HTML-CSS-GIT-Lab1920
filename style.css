@@ -1,0 +1,20 @@
+body {
+  background-color:#ffe6b3;
+}
+
+h1 {
+	
+	
+	 font-size: 50px; 
+	 color:white;
+	 /*position: absolute;
+	 left: 35%;*/
+}
+
+p{
+	font-size: 20px; 
+	 color:white;
+	
+	 left: 40%;
+	 font-weight: bold;
+}
